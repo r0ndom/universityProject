@@ -1,0 +1,17 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.idea/
+**/.idea/
+*.iml
+*.impl
+*.war
+**/target/
+.settings/
+**/.settings/
+/target/
+/src/main/webapp/WEB-INF/pages/findbugsXml.ftl
+src/main/webapp/resources/pages

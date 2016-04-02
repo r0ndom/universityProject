@@ -1,0 +1,12 @@
+{"code": "fcb56955-5344-41e4-897b-d69387e5fa55", "name": "Testing testing", "type": "DEV", "author": {
+    "firstName": "Vasya",
+    "lastName": "Pupkin",
+    "email": "vasia1@gmail.com"
+}, "startDate": 1394196490000, "endDate": 1394196490000, "tags": [
+    {
+        "value": "Java"
+    },
+    {
+        "value": "Hibernate"
+    }
+]}

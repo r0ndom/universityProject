@@ -1,0 +1,61 @@
+/*Custom user profile style*/
+.navbar.navbar-inverse.navabar-course-filter {
+    background-color: #f5eacb;
+    border-color: #E7E7E7;
+}
+
+.btn-to-course {
+    background-color: #d96a56;
+    border-color: #d96a56;
+}
+
+.btn-to-course:hover {
+    background-color: #e87363;
+    border-color: #e87363;
+}
+
+.btn-to-course:focus {
+    background-color: #e87363;
+    border-color: #e87363;
+}
+
+
+.btn-load-more {
+    background-color: #7389d9;
+    border-color: #7389d9;
+    width: 150px;
+}
+
+
+.btn-load-more:hover {
+    background-color: #94a4dd;
+    border-color: #94a4dd;
+    width: 150px;
+}
+
+.btn-load-more:focus {
+    background-color: #94a4dd;
+    border-color: #94a4dd;
+    width: 150px;
+}
+
+.thumb {
+    display: flex;
+}
+
+.const-width {
+    width: 242px;
+}
+
+.open-sans-normal-16 {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    color: #333330;
+}
+
+.open-sans-200-25 {
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    color: #333330;
+}

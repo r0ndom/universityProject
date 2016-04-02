@@ -1,0 +1,1 @@
+This is test string with params: ${param1}, ${param2}

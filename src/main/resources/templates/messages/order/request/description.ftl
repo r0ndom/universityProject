@@ -1,0 +1,1 @@
+${userSurName} ${userName} applied order to ${courseName} on ${orderDate?date?string('dd-MMM-yyyy')}

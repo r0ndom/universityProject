@@ -1,0 +1,42 @@
+[
+    {
+        "code": "fcb56955-5344-41e4-897b-d69387e5fa55",
+        "name": "Testing testing",
+        "type": "DEV",
+        "author": {
+            "firstName": "Vasya",
+            "lastName": "Pupkin",
+            "email": "vasia1@gmail.com"
+        },
+        "startDate": 1394196490000,
+        "endDate": 1394196490000,
+        "tags": [
+            {
+                "value": "Java"
+            },
+            {
+                "value": "Hibernate"
+            }
+        ]
+    },
+    {
+        "code": "c594a28b-197b-4f18-9fa9-f2eed265cacc",
+        "name": "Testing testing",
+        "type": "QA",
+        "author": {
+            "firstName": "Vlad",
+            "lastName": "Vlad",
+            "email": "vasia@gmail.com"
+        },
+        "startDate": 1394196560000,
+        "endDate": 1394196560000,
+        "tags": [
+            {
+                "value": "SoupUI"
+            },
+            {
+                "value": "Acceptance"
+            }
+        ]
+    }
+]
