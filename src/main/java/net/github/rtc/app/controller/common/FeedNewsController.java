@@ -13,9 +13,6 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by dell on 21.01.15.
- */
 @Controller
 public class FeedNewsController {
     public static final String NEWS = "news";

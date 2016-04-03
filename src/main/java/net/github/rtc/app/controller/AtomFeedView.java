@@ -31,7 +31,7 @@ public class AtomFeedView extends AbstractAtomFeedView {
         feed.setAlternateLinks(Arrays.asList(link));
         setUpdatedIfNeeded(model, feed);
         final Person author = new Person();
-        author.setName("Tatyana Bulanaya");
+        author.setName("Ilya Karpov");
         author.setEmail("johndoe@example.com");
         feed.setAuthors(Arrays.asList(author));
         feed.setId(feedId);

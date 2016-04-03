@@ -50,7 +50,7 @@ public class UserAuthenticationProvider implements AuthenticationProvider {
 
         if (user.getStatus() != UserStatus.ACTIVE) {
             throw new BadCredentialsException("Contact the administrator "
-                    + "tatyana.bulanaya@gmail.com");
+                    + "admin@email.com");
         }
 
         if (!password.equals(user.getPassword())) {
