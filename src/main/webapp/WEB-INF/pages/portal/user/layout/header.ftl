@@ -6,7 +6,7 @@
     <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right" style="">
             <li style="height: 45px; margin-top: 8px">
-                <form method="get" action="http://192.168.0.100:8080">
+                <form method="get" action="http://localhost:8080">
                     <input hidden="hidden" name="username" value="${(profileHeader.name)!}">
                     <button class="btn btn-primary" type="submit">Chat</button>
                 </form>
