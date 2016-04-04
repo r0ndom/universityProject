@@ -31,7 +31,7 @@ public class RecoverAdminController {
     public String recoverAdmin() {
         final List<User> admins = userService.findAllByRole(RoleType.ROLE_ADMIN);
         if (admins.size() == 0) {
-            final User admin = new User("TestName", "TestMiddlename", "TestSurname", ADMIN_EMAIL, ADMIN);
+            final User admin = new User("Илья", "Анатолиевич", "Карпов", ADMIN_EMAIL, ADMIN);
             admin.setAuthorities(Arrays.asList(userService.findRoleByType(RoleType.ROLE_ADMIN)));
             admin.setRegisterDate(dateService.getCurrentDate());
             admin.setGender("Male");
