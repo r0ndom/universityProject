@@ -31,11 +31,11 @@
                            style="height: 38px; padding-right: 44px;">
 
 
-                    <button id="hideShowPassword" aria-pressed="false"
-                            style="position: absolute; right: 15px; top: 0px;"
-                            class="hideShowPassword-toggle" tabindex="0"
-                            aria-label="Show Password" role="button" type="button" onclick="showPasswordLogin()">Show
-                    </button>
+                    <#--<button id="hideShowPassword" aria-pressed="false"-->
+                            <#--style="position: absolute; right: 15px; top: 0px;"-->
+                            <#--class="hideShowPassword-toggle" tabindex="0"-->
+                            <#--aria-label="Show Password" role="button" type="button" onclick="showPasswordLogin()">Show-->
+                    <#--</button>-->
 
 
                 </div>
