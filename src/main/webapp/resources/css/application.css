@@ -17,17 +17,17 @@
     src: url('../Bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../Bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('../Bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../Bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
 .nav-sidebar li.active a:hover {
- background-color: #428bca;
+    border-color:#4cae4c
 }
 .nav > li > a:focus {
-    background-color: #428bca;
+    border-color:#4cae4c
 }
 .popup .popup-content {
     margin: 100px auto 0px auto;
     width: 400px;
     height: auto;
     padding: 10px;
-    background-color: #c5c5c5;
+    border-color:#4cae4c
     border-radius: 5px;
     box-shadow: 0px 0px 10px #000;
 }
@@ -38,7 +38,7 @@ body {
 
 .sub-header {
     padding-bottom: 10px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #4cae4c;
 }
 
 .sidebar {
@@ -57,7 +57,7 @@ body {
         overflow-x: hidden;
         overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
         background-color: #f5f5f5;
-        border-right: 1px solid #eee;
+        border-right: 1px solid #4cae4c;
     }
 }
 
@@ -73,8 +73,12 @@ body {
 }
 
 .nav-sidebar > .active > a {
+    /*color: #fff;*/
+    /*background-color: #428bca;*/
     color: #fff;
-    background-color: #428bca;
+    /*background-color: #428bca;*/
+    background-color:#5cb85c;
+    border-color:#4cae4c
 }
 .main {
     padding: 20px;

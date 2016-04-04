@@ -12,9 +12,9 @@
             </li>
             <li style="height: 45px; margin-top: 8px">
                 <span>
-                    <a href="?lang=en"> en</a>
+                    <a href="?lang=en" style="color: #ffffff"> en</a>
                     |
-                    <a href="?lang=ru">ru </a>
+                    <a href="?lang=ru" style="color: #ffffff">ru </a>
                 </span>
             </li>
             <li style="margin-right: 20px">
