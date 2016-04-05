@@ -5,7 +5,7 @@
             <li style="height: 45px; margin-top: 8px">
                 <form method="get" action="http://localhost:8080">
                     <input hidden="hidden" name="username" value="${(profileHeader.name)!}">
-                    <button class="btn btn-primary" type="submit">Chat</button>
+                    <button class="btn btn-primary" type="submit">Чат</button>
                 </form>
             <li>
             <li style="height: 45px">
